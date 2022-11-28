@@ -1,9 +1,9 @@
-:
 
 
 
 
-hello   fanjungang,hello  git   hello,java
+
+hello   fanjungang,hello  git   hello,java   hello  master
 come   on!I   believe  my  future!I  believe  my  dream!
 hot-fix   second  commit
 master test
