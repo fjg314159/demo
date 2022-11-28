@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello,github");
         System.out.println("hello,gitee");
         System.out.println("樊浪浪");
+        System.out.println("加油");
     }
 }
