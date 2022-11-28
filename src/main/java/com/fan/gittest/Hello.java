@@ -6,8 +6,10 @@ public class Hello {
         System.out.println("hello,java");
         System.out.println("hello,github");
         System.out.println("hello,gitee");
+        System.out.println("樊军刚");
         System.out.println("樊浪浪");
         System.out.println("加油");
         System.out.println("努力奋斗!");
+        System.out.println("我爱你");
     }
 }
