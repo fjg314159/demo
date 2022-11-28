@@ -1,6 +1,0 @@
-
-hello   fanjungang,hello  git   hello,java   hello  master
-hello   fanjungang,hello  git   hello,java,hello     hot-fix
-come   on!I   believe  my  future!I  believe  my  dream!
-hot-fix   second  commit
-master test
