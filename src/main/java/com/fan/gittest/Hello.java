@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("你好,git");
         System.out.println("hello,java");
         System.out.println("hello,github");
+        System.out.println("hello,gitee");
     }
 }
